@@ -1,4 +1,4 @@
-### Hi I'm Prince 👋
+# Hi I'm Prince 👋
 
 - 🔭 I’m currently working on Backend Develop
 - 🌱 I’m currently learning Everything :bowtie:
@@ -24,13 +24,13 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="HTML" width="28px">
 </div>
 
-### :mortar_board: Education
+## :mortar_board: Education
  * 2016 - 2019 : B.A. Suan Sunandha Rajabhat University
 
-### :briefcase: WORK EXPERIENCE
+## :briefcase: WORK EXPERIENCE
  * May 2019 - Present : Orange Technology Solution Company Limited.
 
-### :boy: EXPERIENCE
+## :boy: EXPERIENCE
  * Internship At Royal Thai Army Radio and Television Station (Tv.5), Management Information Technology
  * Assistance Training at Digital Literacy and e-Media 1st - 2sd
  * Certificate of NCOST-2019
