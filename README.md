@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Prince 👋
 
+##Language and Tools:
 <!--
 **Prnce-trw/Prnce-trw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
