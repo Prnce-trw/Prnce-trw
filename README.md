@@ -25,7 +25,8 @@
 </div>
 
 ## :mortar_board: Education
- * 2016 - 2019 : B.A. Suan Sunandha Rajabhat University
+* 2016 - 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.A.: Menagement Information System </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suan Sunandha Rajabhat University.
 
 ## :briefcase: WORK EXPERIENCE
  * May 2019 - Present : Orange Technology Solution Company Limited.
