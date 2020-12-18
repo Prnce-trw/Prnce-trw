@@ -32,7 +32,7 @@
  * May 2019 - Present : Orange Technology Solution Company Limited.
 
 ## :boy: EXPERIENCE
- * Internship At Royal Thai Army Radio and Television Station (Tv.5), Management Information Technology
+ * Internship at Royal Thai Army Radio and Television Station (Tv.5), Management Information Technology
  * Assistance Training at Digital Literacy and e-Media 1st - 2sd
  * Certificate of NCOST-2019
  
