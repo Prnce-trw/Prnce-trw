@@ -37,7 +37,7 @@
  * Certificate of NCOST-2019
  
 ### :email: CONTACT
- Email: prince-trw@hotmail.com
+ Email: prince_trw@hotmail.com
 
 <!--
 **Prnce-trw/Prnce-trw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
