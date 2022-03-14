@@ -47,7 +47,7 @@
 
 ## :boy: EXPERIENCE
  * Internship at Royal Thai Army Radio and Television Station (Tv.5), Management Information Technology
- * Assistance Training at Digital Literacy and e-Media 1st - 2sd
+ * Assistance Training at Digital Literacy and e-Media 1st - 2st
  * Certificate of NCOST-2019
  
 ### :email: CONTACT
