@@ -1,8 +1,8 @@
 # Hi I'm Prince 👋
 
-- 🔭 I’m currently working on Developer
-- 🌱 I’m currently learning Everything :bowtie:
-- :thumbsup: I’m interested on Mobile Language and Abap Programming Language (Flutter, React Native) 
+- 🔭 I’m currently working on Sofeware Developer
+- 🌱 I’m currently learning SAP and Programming :bowtie:
+- :thumbsup: I’m interested on Programming Language, Abap, Business Logic and Flows
 
 ## :wrench: Languages and Tools:
 
